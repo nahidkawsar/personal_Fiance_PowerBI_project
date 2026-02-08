@@ -1,7 +1,7 @@
 
 # Personal Fiance
 
-# PowerBI project
+<img width="909" height="498" alt="Image" src="https://github.com/user-attachments/assets/6b049830-9223-4019-be94-aafa02dfcd0c" />
 
 ### Dashboard Link :https://app.powerbi.com/links/DhdBlUGTka?ctid=0b7f9792-22ea-4853-b202-ecb8fa3a4a64&pbi_source=linkShare
 ## Problem Statement
